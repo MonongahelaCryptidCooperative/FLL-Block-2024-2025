@@ -1,6 +1,8 @@
 # FLL-Block-2024-2025
 FLL Block Code 2024-2025
 
+Uses the block interface of Pybricks (www.pybricks.com)
+
 We wanted to share a project we worked on for first lego league. One of the things our FLL team did in past years was to use the Lego Bluetooth remotes to control our robot while we were developing new attachments for our robot as well as mission strategies. This allowed for a rapid development cycle as we didn't have to worry about coding. We also used the remote code to take measurements so we did not have to "guess and check" when programming the robot. Previously we did this in text Pybricks python. However Pybricks recently released a block interface. They also added Xbox controller support. This is better than using the Lego Bluetooth controllers as it allows for analog inputs vs the binary inputs on the Lego controllers. We want novice teams to be able to have the same advantages as more advanced teams so we created this starter pack to get people started who want to try out Pybricks/alternative firmware for FLL.
 
 Included here is some example code to show how to use Pybricks for FLL. Both files (BlockMain.py and supportcode.py) must be loaded into pybricks. Note this was written to use the block interface (which is not free) but the code could be easily adapted to use in text based (or look on this github for some other examples of text-based code). 
