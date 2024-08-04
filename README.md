@@ -19,6 +19,7 @@ Any single character/number can be used as a program label and thus hundereds of
 
 
 The remote mode for XBOX is currenlty loaded and accessed by selecting the program "R"
+The XBOX controller will have to be paired initially (hit the pairing button). After the initial time you will just have to power on the controller as the controller/hub will remember one another. 
 
 The left joystick makes the robot go fowards/backwards
 
